@@ -9,3 +9,7 @@ This is supprising considering I only use Convolution network and few Dense laye
 I will probrably update this with another version that use Bidirectional layer with LSTM
 
 Here is the graph showing the model 's performance:
+
+![Alt text](https://raw.githubusercontent.com/Day1Hour0/Har_Tensorflow/main/Figure_1.png)
+
+![Alt text](https://github.com/Day1Hour0/Har_Tensorflow/blob/main/Figure_2.png)
